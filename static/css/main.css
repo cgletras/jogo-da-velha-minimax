@@ -1,0 +1,31 @@
+body {
+
+    background-color: #AAA;
+    text-align: center;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+
+input {
+    background-color: #F9F9F9;
+    font-size: 6vw;
+    width: 9vw;
+    height: 9vw;
+    margin: 0;
+    color: black;
+    margin: 2px;
+    border-radius: 5px
+}
+
+#jogador {
+    display: inline;
+}
+
+#reiniciar {
+    margin-top: 2%;
+    width: 28vw;
+    height: 5vw;
+    font-size: 1em;
+    color: black;
+    border-radius: 7px
+}
